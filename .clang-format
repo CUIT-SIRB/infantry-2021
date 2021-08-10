@@ -1,0 +1,17 @@
+BasedOnStyle: Chromium
+AlignConsecutiveMacros: 'true'
+AlignAfterOpenBracket: Align
+AlignConsecutiveAssignments: 'true'
+AlignConsecutiveDeclarations: 'true'
+AlignEscapedNewlines: Left
+AlignOperands: 'true'
+AllowAllParametersOfDeclarationOnNextLine: 'true'
+AllowShortFunctionsOnASingleLine: InlineOnly
+IndentWidth: '4'
+Language: Cpp
+PointerAlignment: Right
+ReflowComments: 'true'
+Standard: Auto
+TabWidth: '4'
+UseTab: Never
+ColumnLimit: 120
